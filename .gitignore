@@ -1,0 +1,6 @@
+.vscode
+
+input_template/rust/target
+input_template/rust/Cargo.lock
+input_template/rust/Cargo.toml
+
